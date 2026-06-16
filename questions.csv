@@ -1,15 +1,14 @@
 topic,question,link,difficulty,completed
-Arrays,Two Sum,https://leetcode.com/problems/two-sum/,Easy,No
+Arrays,Two Sum,https://leetcode.com/problems/two-sum/,Easy,Yes
 Arrays,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,No
 Arrays,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,No
 Arrays,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,No
-Arrays,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,No
+Arrays,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Medium,Yes
 Arrays,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,No
 Arrays,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,No
 Arrays,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,No
 Arrays,3Sum,https://leetcode.com/problems/3sum/,Medium,No
 Arrays,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,No
-
 Strings,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,No
 Strings,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,No
 Strings,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Easy,No
@@ -18,7 +17,6 @@ Strings,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,No
 Strings,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,No
 Strings,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/,Medium,No
 Strings,Decode String,https://leetcode.com/problems/decode-string/,Medium,No
-
 LinkedList,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,No
 LinkedList,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,No
 LinkedList,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,No
@@ -26,19 +24,16 @@ LinkedList,Remove Nth Node From End of List,https://leetcode.com/problems/remove
 LinkedList,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,No
 LinkedList,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,No
 LinkedList,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,No
-
 Stack,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,No
 Stack,Min Stack,https://leetcode.com/problems/min-stack/,Medium,No
 Stack,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,No
 Stack,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Easy,No
 Stack,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,No
-
 BinarySearch,Binary Search,https://leetcode.com/problems/binary-search/,Easy,No
 BinarySearch,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Easy,No
 BinarySearch,First Bad Version,https://leetcode.com/problems/first-bad-version/,Easy,No
 BinarySearch,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Medium,No
 BinarySearch,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,No
-
 Trees,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,No
 Trees,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,No
 Trees,Same Tree,https://leetcode.com/problems/same-tree/,Easy,No
@@ -49,28 +44,23 @@ Trees,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-e
 Trees,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,No
 Trees,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,No
 Trees,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,No
-
 Graphs,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,No
 Graphs,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,No
 Graphs,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,No
 Graphs,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,No
 Graphs,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,No
-
 Heap,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,No
 Heap,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,No
 Heap,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,No
-
 Greedy,Jump Game,https://leetcode.com/problems/jump-game/,Medium,No
 Greedy,Gas Station,https://leetcode.com/problems/gas-station/,Medium,No
 Greedy,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,No
-
 DP,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,No
 DP,House Robber,https://leetcode.com/problems/house-robber/,Medium,No
 DP,Coin Change,https://leetcode.com/problems/coin-change/,Medium,No
 DP,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,No
 DP,Word Break,https://leetcode.com/problems/word-break/,Medium,No
 DP,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,No
-
 Backtracking,Subsets,https://leetcode.com/problems/subsets/,Medium,No
 Backtracking,Permutations,https://leetcode.com/problems/permutations/,Medium,No
 Backtracking,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,No
